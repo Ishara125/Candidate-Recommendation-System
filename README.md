@@ -1,17 +1,21 @@
 # Candidate Recommendation System
 
-This project builds a candidate recommendation engine that matches candidate CVs with job descriptions using text preprocessing, vectorization, and similarity scoring.
+## Project Overview
 
-## My Contribution
+This project is a Candidate Recommendation System that matches candidate CVs with suitable job roles based on skills, experience, education background, and CV-job description similarity.
 
-- Created the GitHub repository structure.
-- Added job descriptions for QA Engineer, Full Stack Developer, Frontend Developer, and Business Analyst.
-- Kept raw CV PDF files private and excluded them from GitHub.
-- Implemented preprocessing for CVs and job descriptions.
-- Converted raw text into cleaned text files for vectorization.
-- Documented the preprocessing pipeline.
+The system preprocesses CVs and job descriptions, converts the text into vector representations, calculates similarity scores, and recommends the best-matching candidates for each job role.
 
-## Folder Structure
+## Main Features
+
+- Read candidate CVs
+- Read job descriptions
+- Clean and preprocess text data
+- Convert text into vector format
+- Calculate similarity between CVs and job descriptions
+- Rank and recommend top candidates
+
+## Project Structure
 
 ```text
 Data/
