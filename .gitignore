@@ -1,2 +1,2 @@
-data/raw_cvs/
-*.pdf
+data/raw_cvs/*
+!data/raw_cvs/.gitkeep
