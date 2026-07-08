@@ -1,0 +1,34 @@
+Job Title: Junior Business Analyst
+
+We are looking for a Junior Business Analyst to support requirement gathering, documentation, process analysis, and communication between business users and technical teams. The candidate should be able to understand business needs and convert them into clear software requirements.
+
+Responsibilities:
+- Gather and document business requirements.
+- Communicate with stakeholders to understand business problems.
+- Prepare requirement documents, user stories, and process flows.
+- Support the development team by clarifying requirements.
+- Assist in user acceptance testing.
+- Analyze business processes and suggest improvements.
+- Prepare reports, meeting notes, and documentation.
+- Work closely with project managers, developers, QA engineers, and clients.
+
+Required Skills:
+- Requirement gathering
+- Business analysis
+- User stories
+- Process mapping
+- Documentation
+- Communication skills
+- Problem solving
+- Stakeholder management
+- Agile methodology
+- Jira or Trello
+- Microsoft Excel
+- SQL basics
+- User acceptance testing
+
+Education:
+Bachelor's degree or undergraduate qualification in Information Technology, Business Information Systems, Computer Science, Business Management, or a related field.
+
+Experience:
+Internship experience or 0 to 1 year of business analysis or IT project support experience is preferred.

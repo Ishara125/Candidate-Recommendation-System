@@ -1,0 +1,33 @@
+Job Title: Junior QA Engineer
+
+We are looking for a Junior QA Engineer to support software testing activities for web and mobile applications. The candidate should be able to understand requirements, prepare test cases, execute manual tests, report bugs, and support basic automation testing.
+
+Responsibilities:
+- Review software requirements and identify test scenarios.
+- Prepare test cases, test data, and test reports.
+- Perform manual testing for web and mobile applications.
+- Identify, document, and track software defects.
+- Work with developers to verify bug fixes.
+- Perform regression testing, smoke testing, and functional testing.
+- Support automation testing using Selenium or similar tools.
+- Participate in sprint meetings and quality assurance discussions.
+
+Required Skills:
+- Manual testing
+- Test case writing
+- Bug reporting
+- Regression testing
+- Functional testing
+- Smoke testing
+- Selenium
+- Java or Python
+- SQL basics
+- API testing basics
+- Postman
+- Git
+
+Education:
+Bachelor's degree or undergraduate qualification in Computer Science, Software Engineering, Information Technology, or a related field.
+
+Experience:
+Internship experience or 0 to 1 year of experience in software quality assurance is preferred.

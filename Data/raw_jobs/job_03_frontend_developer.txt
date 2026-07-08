@@ -1,0 +1,33 @@
+Job Title: Junior Frontend Developer
+
+We are looking for a Junior Frontend Developer to build responsive, user-friendly, and accessible web interfaces. The candidate should be comfortable working with HTML, CSS, JavaScript, and modern frontend frameworks.
+
+Responsibilities:
+- Convert UI designs into responsive web pages.
+- Develop frontend components using React or similar frameworks.
+- Ensure websites work across different browsers and screen sizes.
+- Improve website performance and user experience.
+- Work with APIs to display dynamic data.
+- Fix UI bugs and improve existing pages.
+- Follow accessibility and usability best practices.
+- Collaborate with designers and backend developers.
+
+Required Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- Responsive design
+- Bootstrap or Tailwind CSS
+- API integration
+- Git
+- GitHub
+- UI development
+- Debugging
+- Browser developer tools
+
+Education:
+Bachelor's degree or undergraduate qualification in Computer Science, Software Engineering, Information Technology, or a related field.
+
+Experience:
+Internship experience or 0 to 1 year of frontend development experience is preferred.

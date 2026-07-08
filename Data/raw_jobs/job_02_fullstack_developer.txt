@@ -1,0 +1,34 @@
+Job Title: Junior Full Stack Developer
+
+We are looking for a Junior Full Stack Developer to design, develop, and maintain web applications. The candidate should have knowledge of frontend and backend development, databases, APIs, and version control.
+
+Responsibilities:
+- Develop responsive user interfaces using HTML, CSS, JavaScript, and frontend frameworks.
+- Build backend services and REST APIs.
+- Connect frontend applications with backend systems.
+- Work with databases to store and retrieve application data.
+- Write clean, reusable, and maintainable code.
+- Debug application issues and improve performance.
+- Collaborate with designers, developers, and project managers.
+- Use Git for version control and team collaboration.
+
+Required Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- REST API
+- SQL
+- MongoDB
+- Git
+- GitHub
+- Problem solving
+- Debugging
+
+Education:
+Bachelor's degree or undergraduate qualification in Computer Science, Software Engineering, Information Technology, or a related field.
+
+Experience:
+Internship experience or 0 to 1 year of full stack web development experience is preferred.
