@@ -1,0 +1,21 @@
+Job Description,Rank,Candidate CV,Similarity Score,Match Percentage
+job_01_qa_engineer.txt,1,candidate_11.txt,0.3011,30.11
+job_01_qa_engineer.txt,2,candidate_05.txt,0.2854,28.54
+job_01_qa_engineer.txt,3,candidate_15.txt,0.2805,28.05
+job_01_qa_engineer.txt,4,candidate_06.txt,0.1808,18.08
+job_01_qa_engineer.txt,5,candidate_12.txt,0.1802,18.02
+job_02_fullstack_developer.txt,1,candidate_12.txt,0.3032,30.32
+job_02_fullstack_developer.txt,2,candidate_08.txt,0.2777,27.77
+job_02_fullstack_developer.txt,3,candidate_14.txt,0.2585,25.85
+job_02_fullstack_developer.txt,4,candidate_07.txt,0.2445,24.45
+job_02_fullstack_developer.txt,5,candidate_03.txt,0.2369,23.69
+job_03_frontend_developer.txt,1,candidate_08.txt,0.3066,30.66
+job_03_frontend_developer.txt,2,candidate_12.txt,0.2324,23.24
+job_03_frontend_developer.txt,3,candidate_03.txt,0.1977,19.77
+job_03_frontend_developer.txt,4,candidate_14.txt,0.17,17.0
+job_03_frontend_developer.txt,5,candidate_07.txt,0.161,16.1
+job_04_business_analyst.txt,1,candidate_06.txt,0.4523,45.23
+job_04_business_analyst.txt,2,candidate_11.txt,0.3626,36.26
+job_04_business_analyst.txt,3,candidate_05.txt,0.361,36.1
+job_04_business_analyst.txt,4,candidate_15.txt,0.1665,16.65
+job_04_business_analyst.txt,5,candidate_04.txt,0.1632,16.32

@@ -28,3 +28,21 @@ src/
 docs/
 results/
 README.md
+
+```
+## Similarity Computation and Candidate Recommendation
+
+This module calculates the similarity between processed candidate CVs and processed job descriptions. The cleaned text files are loaded from the `Data/processed_cvs` and `Data/processed_jobs` folders.
+
+The system uses TF-IDF vectorization to convert candidate CVs and job descriptions into numerical vectors. Both CVs and job descriptions are transformed using the same TF-IDF vectorizer so they can be compared in the same feature space.
+
+After vectorization, cosine similarity is used to measure how closely each candidate CV matches each job description. A higher cosine similarity score indicates a stronger match between the candidate profile and the job requirements.
+
+For each job description, candidates are ranked in descending order based on their similarity scores. The system recommends the Top 5 best-matching candidates for each job description.
+
+### Output File
+
+The recommendation results are saved in the `results` folder:
+
+```text
+results/recommendations.csv
