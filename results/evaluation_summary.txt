@@ -1,0 +1,28 @@
+Evaluation and Analysis Summary
+================================
+
+Top-K value used: 5
+
+Overall Evaluation Results
+--------------------------
+Average Precision: 0.15
+Average Recall: 0.25
+Average F1-score: 0.188
+
+Strengths
+---------
+- The system can rank candidates based on CV and job description similarity.
+- The system works well when CVs and job descriptions contain similar skill keywords.
+- The recommendation output is easy to evaluate using Precision, Recall, and F1-score.
+
+Weaknesses
+----------
+- The system depends heavily on the words used in CVs and job descriptions.
+- TF-IDF may not understand the deeper meaning of skills or experience.
+- The evaluation dataset is small, so the result may not represent real-world accuracy fully.
+
+Future Improvements
+-------------------
+- Increase the number of CVs and job descriptions.
+- Use advanced NLP models such as BERT or Sentence Transformers.
+- Add separate matching for skills, education level, and work experience.
