@@ -5,9 +5,9 @@ Top-K value used: 5
 
 Overall Evaluation Results
 --------------------------
-Average Precision: 0.15
-Average Recall: 0.25
-Average F1-score: 0.188
+Average Precision: 0.3
+Average Recall: 0.3
+Average F1-score: 0.3
 
 Strengths
 ---------

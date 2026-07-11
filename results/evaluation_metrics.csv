@@ -1,5 +1,5 @@
 Job Description,Expected Candidate CVs,Predicted Candidate CVs,True Positives,Precision,Recall,F1-score
-job_01_qa_engineer.txt,candidate_04.txt|candidate_07.txt|candidate_01.txt,candidate_11.txt|candidate_05.txt|candidate_15.txt|candidate_12.txt|candidate_06.txt,0,0.0,0.0,0.0
-job_02_fullstack_developer.txt,candidate_05.txt|candidate_02.txt|candidate_08.txt,candidate_12.txt|candidate_14.txt|candidate_03.txt|candidate_07.txt|candidate_08.txt,1,0.2,0.333,0.25
-job_03_frontend_developer.txt,candidate_09.txt|candidate_03.txt|candidate_06.txt,candidate_12.txt|candidate_14.txt|candidate_03.txt|candidate_07.txt|candidate_08.txt,1,0.2,0.333,0.25
-job_04_business_analyst.txt,candidate_15.txt|candidate_10.txt|candidate_12.txt,candidate_11.txt|candidate_05.txt|candidate_15.txt|candidate_04.txt|candidate_06.txt,1,0.2,0.333,0.25
+job_01_qa_engineer.txt,candidate_01.txt|candidate_09.txt|candidate_04.txt|candidate_07.txt|candidate_12.txt,candidate_05.txt|candidate_06.txt|candidate_12.txt|candidate_15.txt|candidate_11.txt,1,0.2,0.2,0.2
+job_02_fullstack_developer.txt,candidate_05.txt|candidate_14.txt|candidate_08.txt|candidate_02.txt|candidate_11.txt,candidate_14.txt|candidate_03.txt|candidate_08.txt|candidate_07.txt|candidate_12.txt,2,0.4,0.4,0.4
+job_03_frontend_developer.txt,candidate_03.txt|candidate_09.txt|candidate_13.txt|candidate_10.txt|candidate_06.txt,candidate_14.txt|candidate_03.txt|candidate_08.txt|candidate_07.txt|candidate_12.txt,1,0.2,0.2,0.2
+job_04_business_analyst.txt,candidate_04.txt|candidate_08.txt|candidate_10.txt|candidate_12.txt|candidate_15.txt,candidate_05.txt|candidate_04.txt|candidate_06.txt|candidate_11.txt|candidate_15.txt,2,0.4,0.4,0.4
